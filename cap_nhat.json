@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/nguyenkhoi23930-jpg/MrOne-Editor/releases/download/v1.2.0/MrOne_Editor.exe",
-  "note": "",
-  "block": ["A1B2C3D4E5", "MR1-1M-20261011-A1B2C3D4E5-XXXXXXXXXX"]
+  "version": "1.2.1",
+  "url": "https://github.com/nguyenkhoi23930-jpg/MrOne-Editor/releases/download/v1.2.1/MrOne_Editor.exe",
+  "note": "Sua dong goi EXE, encoder GPU, luu video/hieu ung theo dong da tich, giu thumb tung dong.",
+  "block": ["A1B2C3D4E5", "MR1-1M-20261011-A1B2C3D4E5-XXXXXXXX"]
 }
