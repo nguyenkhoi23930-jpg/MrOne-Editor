@@ -1,6 +1,9 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/nguyenkhoi23930-jpg/MrOne-Editor/releases/download/v1.2.2/MrOne_Editor.exe",
-  "note": "Sua loi tai video YouTube, nang cap yt-dlp, ho tro Deno JavaScript runtime, cai thien do on dinh khi tai video.",
-  "block": ["A1B2C3D4E5", "MR1-1M-20261011-A1B2C3D4E5-XXXXXXXX"]
+  "version": "2.2.0",
+  "url": "https://github.com/nguyenkhoi23930-jpg/MrOne-Editor/releases/download/v2.2/MrOne_Editor.exe",
+  "note": "Thêm Turbo, dung lượng file, giao diện Sáng/Tối",
+  "block": [
+    "A1B2C3D4E5",
+    "Mr1-3m-20260130-F9E8D7C6B5-1A2B3C4D5E"
+  ]
 }
