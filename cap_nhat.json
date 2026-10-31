@@ -1,9 +1,6 @@
 {
-  "version": "2.2.0",
-  "url": "https://github.com/nguyenkhoi23930-jpg/MrOne-Editor/releases/download/v2.2/MrOne_Editor.exe",
-  "note": "Thêm Turbo, dung lượng file, giao diện Sáng/Tối",
-  "block": [
-    "A1B2C3D4E5",
-    "Mr1-3m-20260130-F9E8D7C6B5-1A2B3C4D5E"
-  ]
+  "version": "1.0.0",
+  "url": "",
+  "note": "",
+  "block": []
 }
